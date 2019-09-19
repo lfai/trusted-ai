@@ -5,7 +5,7 @@ The Technical WG creates designs, specifications, shared code and processes to e
  
 ## LFAI Trusted AI Sponsor willing to regularly monitor the WG and ensure it remains useful and productive
 
-### Sponsor: Animesh Singh
+Animesh Singh, IBM
  
 ## A proposed meeting schedule, with a sample agenda
 Weekly meetings.
@@ -32,7 +32,7 @@ Initial members:
 -  Orange
 -  Tencent
  
-### Chair: Romeo Kienzler, IBM
+Chair: Romeo Kienzler, IBM
  
 6. Any resources needed from the LFAI to accomplish the task. This can include funding, marketing, technical expertise or other resources. Note that some types of resources may require allocation from the Governing Board.
  
