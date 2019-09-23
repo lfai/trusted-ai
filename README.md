@@ -9,6 +9,7 @@
 AT&T, Amdocs, Ericsson, IBM, Orange, TechM, Tencent
 
 ## Details
-Find more details on the [LFAI Trusted AI Wiki](https://wiki.lfai.foundation/display/DL/LF+AI+Trusted+AI+Committee?focusedCommentId=12091869#comment-12091869) and reach out to the chairs for participation.
+Find more details on the [LFAI Trusted AI Wiki](https://wiki.lfai.foundation/display/DL/LF+AI+Trusted+AI+Committee) and reach out to the chairs for participation.
+
 
 
