@@ -15,4 +15,4 @@ Find more details on the [LFAI Trusted AI Wiki](https://wiki.lfai.foundation/dis
 - [Technical Working Group](twg.md)
 - [Principles Working Group](pwg.md)
 
-Please contact [Animesh Singh](singhan@us.ibm.com] for any help with the repository.
+Please contact [Animesh Singh](singhan@us.ibm.com) for any help with the repository.
