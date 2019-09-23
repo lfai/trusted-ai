@@ -11,5 +11,8 @@ AT&T, Amdocs, Ericsson, IBM, Orange, TechM, Tencent
 ## Details
 Find more details on the [LFAI Trusted AI Wiki](https://wiki.lfai.foundation/display/DL/LF+AI+Trusted+AI+Committee) and reach out to the chairs for participation.
 
+## Working Groups
+- [Technical Working Group](twg.md)
+- [Principles Working Group](pwg.md)
 
-
+Please contact [Animesh Singh](singhan@us.ibm.com] for any help with the repository.
